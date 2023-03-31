@@ -33,3 +33,19 @@ click select app and choose other
 enter any remark
 copy password
 jtvixslrioggolzy   ye password sendmail.ini file pe use karna hai
+
+
+
+
+
+
+
+
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.gmail.com
+MAIL_PORT=465
+MAIL_USERNAME=theequicomgr8@gmail.com
+MAIL_PASSWORD=srptbggzopairrih
+MAIL_ENCRYPTION=ssl
+MAIL_FROM_ADDRESS=theequicomgr8@gmail.com
+MAIL_FROM_NAME="${APP_NAME}"
