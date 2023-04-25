@@ -4,7 +4,7 @@ smtp_port=587 ya 465
 smtp_ssl=auto
 error_logfile=error.log
 auth_username=suman.krgr8@gmail.com
-auth_password=cmmmjqdegkilgkpv
+auth_password=gdwtfslfpcwnvdya
 
 now go ti php.ini file
 SMTP= smtp.gmail.com
